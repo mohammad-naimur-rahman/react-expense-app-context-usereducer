@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-expense-app-context-usereducer/static/css/main.55afb2de.chunk.css",
+    "main.js": "/react-expense-app-context-usereducer/static/js/main.1374cfa1.chunk.js",
+    "main.js.map": "/react-expense-app-context-usereducer/static/js/main.1374cfa1.chunk.js.map",
+    "runtime-main.js": "/react-expense-app-context-usereducer/static/js/runtime-main.afcda926.js",
+    "runtime-main.js.map": "/react-expense-app-context-usereducer/static/js/runtime-main.afcda926.js.map",
+    "static/js/2.a5f47752.chunk.js": "/react-expense-app-context-usereducer/static/js/2.a5f47752.chunk.js",
+    "static/js/2.a5f47752.chunk.js.map": "/react-expense-app-context-usereducer/static/js/2.a5f47752.chunk.js.map",
+    "index.html": "/react-expense-app-context-usereducer/index.html",
+    "static/css/main.55afb2de.chunk.css.map": "/react-expense-app-context-usereducer/static/css/main.55afb2de.chunk.css.map",
+    "static/js/2.a5f47752.chunk.js.LICENSE.txt": "/react-expense-app-context-usereducer/static/js/2.a5f47752.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afcda926.js",
+    "static/js/2.a5f47752.chunk.js",
+    "static/css/main.55afb2de.chunk.css",
+    "static/js/main.1374cfa1.chunk.js"
+  ]
+}
